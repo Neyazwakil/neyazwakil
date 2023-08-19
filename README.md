@@ -13,9 +13,9 @@ I'm a dedicated and enthusiastic Java developer with a strong foundation in data
 
 
 
-- 📫 How to reach me: **neyazwakil8271@gmail.com**
+📫 How to reach me: **neyazwakil8271@gmail.com**
 
-- 📄 Know about my experiences [Read my CV](https://docs.google.com/document/d/1EIpiASgfZKN13DTMkOstDEJcx1CAwZ19wOggwcJNLGc/edit)
+📄 Know about my experiences [Read my CV](https://docs.google.com/document/d/1EIpiASgfZKN13DTMkOstDEJcx1CAwZ19wOggwcJNLGc/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
